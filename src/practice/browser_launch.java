@@ -14,6 +14,9 @@ public class browser_launch {
 		  //updating the code
 		  Thread.sleep(3000);
 		  driver.quit();
+		  
+		  //creating a branch in the git hub 
+		  //it will be created by sdet-1
 
 	}
 
